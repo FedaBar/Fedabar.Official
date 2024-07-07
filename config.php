@@ -1,8 +1,8 @@
 <?php
-$servername = "sqlXXX.infinityfree.net"; // Ersetze mit deinem Hostname
-$username = "id22417313_fedabar"; // Ersetze mit deinem Benutzernamen
-$password = "11250Fflo; // Ersetze mit deinem Passwort
-$dbname = "id22417313_fedabar"; // Ersetze mit deinem Datenbanknamen
+$servername = "192.168.0.100"; // Ersetze mit deinem Hostname
+$username = "fedabarc_fedabarofficial"; // Ersetze mit deinem Benutzernamen
+$password = "11250Fflo!; // Ersetze mit deinem Passwort
+$dbname = "fedabarc_fedabarofficial"; // Ersetze mit deinem Datenbanknamen
 
 // Verbindung herstellen
 $conn = new mysqli($servername, $username, $password, $dbname);
