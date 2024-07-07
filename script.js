@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
     { username: "Elias", password: "Mutter" },
     { username: "Leon", password: "Schumacher" },
     { username: "Tobias", password: "Huber" },
-    { username: "Carina", password: "Schume" },
+    { username: "Carina", password: "Sigel" },
     { username: "Florian", password: "Fuerst" },
     { username: "Marcel", password: "Eder" },
     { username: "Alina", password: "eder" } // Alina Eder Added
